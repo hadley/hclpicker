@@ -12,4 +12,5 @@ LazyData: true
 Suggests:
   htmltools,
   shiny
-
+URL: https://github.com/hadley/hclpicker
+BugReports: https://github.com/hadley/hclpicker/issues
